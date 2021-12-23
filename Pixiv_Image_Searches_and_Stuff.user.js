@@ -71,7 +71,7 @@ const pageselectors = [
         selectors: [12]
     },{ //5
         regex: /^\/bookmark_new_illust\.php/,
-        selectors: [8]
+        selectors: [9]
     },{ //6
         regex: /^\/discovery/,
         selectors: [8]
